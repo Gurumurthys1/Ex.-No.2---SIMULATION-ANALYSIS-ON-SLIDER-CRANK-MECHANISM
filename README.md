@@ -1,6 +1,6 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No. 02 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE:  18.10.2024
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -44,10 +44,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/f7c0d788-a119-4060-860c-216ce710d318)
 
+![2 1](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/896ffe4c-b42f-4666-8dd7-9a2e0312968e)
 
-### Name:
-### Register Number: 
+![2 2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/8ea338b3-f003-48b6-b48b-2986db11f662)
+
+### Name: GURUMURTHY S
+### Register Number: 212223230066
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
